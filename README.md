@@ -1,6 +1,6 @@
 # Lab02_Geo-Tagged-Tweet
 
-1.Introduce your comparison of two places or two time periods. Why do you want to make this comparison? Make sure this narrative will be stored in a ‘readme.md’.
+**1.Introduce your comparison of two places or two time periods. Why do you want to make this comparison? Make sure this narrative will be stored in a ‘readme.md’.**
 
 I have decided to pick the two time periods based on the same location that is provided. I chose a minute and two minutes for the time periods since I assume that in a short amount of time, there would be bigger information that might exceed twice or thrice the previous data. The reason I preferred to choose the two-time period is because rather than comparing locations, I would like to analyze information that is retrieved in one specific location over time.
 
@@ -8,7 +8,7 @@ In this case, the topic is coronavirus. So, my observation would be based on twe
 
 Overall, I would like to see the number of tweets that are tweeted out between a minute and two minutes. Also, how these tweets pop out in new areas? Whether they are far away or closed to each other.
 
-2.Export the two maps to the repository and then insert them to the readme.md. Please compare them and briefly discuss why they represent different geospatial patterns on the map
+**2.Export the two maps to the repository and then insert them to the readme.md. Please compare them and briefly discuss why they represent different geospatial patterns on the map**
 
 As you can see below, these maps are representing geospatial patterns that are caused by the difference of time. First map with red dots was produced after a minute, while the second map with blue dots was produced after two minutes. 
 	
@@ -16,7 +16,7 @@ As you can see below, these maps are representing geospatial patterns that are c
 	
   The reason they represent different geospatial patterns on the map is because over a specific time, there are different number of tweets that are tweeted out and it seems that the numbers are unpredictable. Based on my quick observation, I was predicting that the numbers would be doubled since it is only between one and two minutes, but my prediction was inaccurate. Judging by the second map, I could analyze that these blue dots are appearing more than the red dots. So, my conclusion is that every minute, there would be new information which they are uncountable due to the number of users and trend.
 
-3. Export the two-word clouds to the repository and then insert them to the readme.md. Please compare them and briefly discuss why they represent different context.
+**3.Export the two-word clouds to the repository and then insert them to the readme.md. Please compare them and briefly discuss why they represent different context.**
 
 For the two-word clouds, I would like to have a fix shape so it would be easier for me to compare and in this case, I have used the heart shapes. Where the heart shape colored in red is based on the first minute tweets, while the other is representing the tweets that are collected in two minutes. 
 
