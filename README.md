@@ -16,7 +16,9 @@ As you can see below, these maps are representing geospatial patterns that are c
 	
   The reason they represent different geospatial patterns on the map is because over a specific time, there are different number of tweets that are tweeted out and it seems that the numbers are unpredictable. Based on my quick observation, I was predicting that the numbers would be doubled since it is only between one and two minutes, but my prediction was inaccurate. Judging by the second map, I could analyze that these blue dots are appearing more than the red dots. So, my conclusion is that every minute, there would be new information which they are uncountable due to the number of users and trend.
   
-Map-1.png
+![Map-1](https://user-images.githubusercontent.com/76998750/165538561-e7998a33-9d4e-4f68-a8bb-888f454e0e21.png)
+
+![Map-2](https://user-images.githubusercontent.com/76998750/165538590-a933e14d-cca1-4738-925b-a1234e03ee2e.png)
 
 **3.Export the two-word clouds to the repository and then insert them to the readme.md. Please compare them and briefly discuss why they represent different context.**
 
