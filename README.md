@@ -29,3 +29,7 @@ If we compare these two images, we could see that there is a different ‘trend�
 On the other perspective, there are similarities between these two-word clouds, like ‘Job’, ‘Need’, and ‘Love’. This suggest that the existed tweets are still covering these themes, even though some of them are less readable, like the word ‘Love’. Thus, the word ‘Job’ seems to have the same size, and this leads me to the idea that maybe during this pandemic, coronavirus has made jobs availability to be less than previous years. The other potential reason could be that people may have lost jobs. 
 
 Overall, the reason why the two-word clouds are representing different context is because every minute, there could be a new event that the United States may experience. Due to this event, the context has been shifted to the most ‘trending’ one. That is why these two images do not share the same content. 
+
+![Wordcloud-1](https://user-images.githubusercontent.com/76998750/165538765-78bd5078-a4b8-48a2-91fd-06f6edd260a9.png)
+
+![Wordcloud-2](https://user-images.githubusercontent.com/76998750/165538790-afee430e-e0d7-4bf7-ab2a-f3f8ff7107f5.png)
