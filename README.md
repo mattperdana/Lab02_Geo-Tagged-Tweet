@@ -15,6 +15,8 @@ As you can see below, these maps are representing geospatial patterns that are c
   Based on these two maps, I would argue that the tweets which have the content or theme about coronavirus seems to be increased after a minute. In addition, from my perspective, I assume that these new tweets (which are colored in blue dots) are appearing closed to their previous one. I think that it is indicating that the users might have shared the same information, but this time the area coverage is greater than before. Nevertheless, there is not much different in Midwest. I am predicting that they are less users in this area or another reason for this could be that in this area may not have been affected much than those who are living in the east and west coast. Not only that, but another possibility could also be that the information that is shared publicly have not spread out to this area yet. 
 	
   The reason they represent different geospatial patterns on the map is because over a specific time, there are different number of tweets that are tweeted out and it seems that the numbers are unpredictable. Based on my quick observation, I was predicting that the numbers would be doubled since it is only between one and two minutes, but my prediction was inaccurate. Judging by the second map, I could analyze that these blue dots are appearing more than the red dots. So, my conclusion is that every minute, there would be new information which they are uncountable due to the number of users and trend.
+  
+Map-1.png
 
 **3.Export the two-word clouds to the repository and then insert them to the readme.md. Please compare them and briefly discuss why they represent different context.**
 
